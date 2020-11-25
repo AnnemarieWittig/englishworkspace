@@ -4,7 +4,7 @@
     "type": "voc",
     "eap": "sdgmodels2.eap",
     "diagram": "TertiaryEducationDiplomaEvidence",
-    "template": "sdg2-impl-voc.j2",
+    "template": "sdg2-impl.j2",
     "title": "SDG Models 2 IMPL",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "TBD",
@@ -17,21 +17,21 @@
     "translation": [
       {
         "language":"en",
-        "template":"sdg2-impl-voc_en.j2",
+        "template":"sdg2-impl_en.j2",
         "title":"TertiaryEducationDiplomaEvidence-impl-voc-EN",
         "translationjson":"sdgmodels2-impl-voc_en.json",
         "mergefile":"sdgmodels2-impl-voc_en_merged.jsonld"
       },
       {
         "language":"nl",
-        "template":"sdg2-impl-voc_nl.j2",
+        "template":"sdg2-impl_nl.j2",
         "title":"TertiaryEducationDiplomaEvidence-impl-voc-NL",
         "translationjson":"sdgmodels2-impl-voc_nl.json",
         "mergefile":"sdgmodels2-impl-voc_nl_merged.jsonld"
       },
       {
         "language":"de",
-        "template":"sdg2-impl-voc_de.j2",
+        "template":"sdg2-impl_de.j2",
         "title":"TertiaryEducationDiplomaEvidence-impl-voc-DE",
         "translationjson":"sdgmodels2-impl-voc_de.json",
         "mergefile":"sdgmodels2-impl-voc_de_merged.jsonld"
