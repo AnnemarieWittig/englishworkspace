@@ -24,14 +24,14 @@
       },
       {
         "language":"nl",
-        "template":"sdg2-voc_nl.j2",
+        "template":"sdg2-feedback-voc_nl.j2",
         "title":"TertiaryEducationDiplomaEvidence-feedback-voc-NL",
         "translationjson":"sdgmodels2-feedback-voc_nl.json",
         "mergefile":"sdgmodels2-feedback-voc_nl_merged.jsonld"
       },
       {
         "language":"de",
-        "template":"sdg2-voc_de.j2",
+        "template":"sdg2-feedback-voc_de.j2",
         "title":"TertiaryEducationDiplomaEvidence-feedback-voc-DE",
         "translationjson":"sdgmodels2-feedback-voc_de.json",
         "mergefile":"sdgmodels2-feedback-voc_de_merged.jsonld"
