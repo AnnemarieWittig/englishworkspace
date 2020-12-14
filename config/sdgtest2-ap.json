@@ -1,0 +1,41 @@
+[
+  {
+    "name": "sdgtest2-ap",
+    "type": "ap",
+    "eap": "sdgtest2.eap",
+    "diagram": "TertiaryEducationDiplomaEvidence",
+    "template": "sdgtest2-ap.j2",
+    "title": "SDG Models 2 AP",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "TBD",
+    "license": "TBD",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "MijnKolom",
+    "site": "site-skeleton/sdgtest2-ap",
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaarden/applicatieprofiel-persoon-basis/applicatieprofiel-persoon-basis.html",
+    "translation": [
+      {
+        "language":"en",
+        "template":"sdgtest2-ap_en.j2",
+        "title":"TertiaryEducationDiplomaEvidence-AP-EN",
+        "translationjson":"sdgtest2-ap_en.json",
+        "mergefile":"sdgtest2-ap_en_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"sdgtest2-ap_nl.j2",
+        "title":"TertiaryEducationDiplomaEvidence-AP-NL",
+        "translationjson":"sdgtest2-ap_nl.json",
+        "mergefile":"sdgtest2-ap_nl_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"sdgtest2-ap_de.j2",
+        "title":"TertiaryEducationDiplomaEvidence-AP-DE",
+        "translationjson":"sdgtest2-ap_de.json",
+        "mergefile":"sdgtest2-ap_de_merged.jsonld"
+      }
+    ]
+  }
+]
