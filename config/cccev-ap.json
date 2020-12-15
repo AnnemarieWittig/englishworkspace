@@ -20,6 +20,12 @@
         "template":"cccev-ap_en.j2",
         "title": "Core Criterion and Core Evidence Vocabulary",
         "mergefile":"cccev-ap_en_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"cccev-ap_en.j2",
+        "title": "TODO Core Criterion and Core Evidence Vocabulary",
+        "mergefile":"cccev-ap_de_merged.jsonld"
       }
     ]
   }
