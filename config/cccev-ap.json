@@ -19,7 +19,6 @@
         "language":"en",
         "template":"cccev-ap_en.j2",
         "title": "Core Criterion and Core Evidence Vocabulary",
-        "translationjson":"cccev-ap_en.json",
         "mergefile":"cccev-ap_en_merged.jsonld"
       }
     ]
