@@ -1,0 +1,27 @@
+[
+  {
+    "name": "cccev-ap",
+    "type": "ap",
+    "eap": "cccev.eap",
+    "diagram": "CCCEV_v3",
+    "template": "cccev-ap.j2",
+    "title": "Core Criterion and Core Evidence Vocabulary",
+    "publication-state": "https://creativecommons.org/licenses/by/4.0/",
+    "publication-date": "TBD",
+    "license": "TBD",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "MijnKolom",
+    "site": "site-skeleton/cccev-ap",
+    "feedbackurl": "https://github.com/SEMICeu/CCCEV/issues",
+    "standaardregisterurl": "",
+    "translation": [
+      {
+        "language":"en",
+        "template":"cccev-ap_en.j2",
+        "title": "Core Criterion and Core Evidence Vocabulary",
+        "translationjson":"cccev-ap_en.json",
+        "mergefile":"cccev-ap_en_merged.jsonld"
+      }
+    ]
+  }
+]
