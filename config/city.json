@@ -1,0 +1,38 @@
+[
+  {
+    "name": "city-demo",
+    "type": "ap",
+    "eap": "city.eap",
+    "diagram": "demo",
+    "template": "demo.j2",
+    "title": "Demo application profile",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+    "publication-date": "TBD",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "MijnKolom",
+    "site": "site-skeleton/demo",
+    "feedbackurl": "",
+    "standaardregisterurl": "",
+    "translation": [
+      {
+        "language":"en",
+        "template":"demo_en.j2",
+        "title": "Demo",
+        "mergefile":"demo_en_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"demo_de.j2",
+        "title": "Demo",
+        "mergefile":"demo_de_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"demo_nl.j2",
+        "title": "Demo",
+        "mergefile":"demo_nl_merged.jsonld"
+      }
+    ]
+  }
+]
