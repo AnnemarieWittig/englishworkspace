@@ -18,19 +18,22 @@
       {
         "language":"en",
         "template":"demo_en.j2",
-        "title": "Demo",
+        "title": "Demo-En",
+        "translationjson":"demo_en.json",
         "mergefile":"demo_en_merged.jsonld"
       },
       {
         "language":"de",
         "template":"demo_de.j2",
-        "title": "Demo",
+        "title": "Demo-De",
+        "translationjson":"demo_de.json",
         "mergefile":"demo_de_merged.jsonld"
       },
       {
         "language":"nl",
         "template":"demo_nl.j2",
-        "title": "Demo",
+        "title": "Demo-Nl",
+        "translationjson":"demo_nl.json",
         "mergefile":"demo_nl_merged.jsonld"
       }
     ]
