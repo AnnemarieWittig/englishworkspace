@@ -3,7 +3,7 @@
     "properties": [],
     "externals": [
         {
-            "@id": "http://www.w3.org/ns/locn#Address",
+            "EA-Guid": "{78F91463-C61D-4fdb-83AF-D4696761B8D3}",
             "name": "Address",
             "label": {
                 "en": "Address",
@@ -15,7 +15,7 @@
             }
         },
         {
-            "@id": "https://schema.org/City",
+            "EA-Guid": "{A9812633-89DF-4cea-9BD2-335731183BF4}",
             "name": "City",
             "label": {
                 "en": "City",
@@ -29,7 +29,7 @@
     ],
     "externalproperties": [
         {
-            "@id": "http://www.w3.org/ns/locn#addressArea",
+            "EA-Guid": "{CAB8052B-77F2-430b-9C5B-488121FA55C2}",
             "name": "city",
             "label": {
                 "en": "city",
@@ -41,7 +41,7 @@
             }
         },
         {
-            "@id": "http://www.w3.org/ns/locn#geographicName",
+            "EA-Guid": "{3851A671-221B-4dbc-BA00-FFF7AC7E3855}",
             "name": "name",
             "label": {
                 "en": "name",
@@ -53,7 +53,7 @@
             }
         },
         {
-            "@id": "http://www.w3.org/ns/locn#poBox",
+            "EA-Guid": "{F73F0FBA-28B1-4c08-AE7D-49867F297512}",
             "name": "house number",
             "label": {
                 "en": "house number",
@@ -65,7 +65,7 @@
             }
         },
         {
-            "@id": "http://www.w3.org/ns/locn#postCode",
+            "EA-Guid": "{E2946B43-8F13-46f4-B1D2-81E7F4C8CB5C}",
             "name": "post code",
             "label": {
                 "en": "post code",
@@ -77,7 +77,7 @@
             }
         },
         {
-            "@id": "http://www.w3.org/ns/locn#thoroughfare",
+            "EA-Guid": "{5B5878F5-587E-4559-B430-43C3F6D2C4F1}",
             "name": "street name",
             "label": {
                 "en": "street name",
