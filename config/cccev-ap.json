@@ -3,7 +3,7 @@
     "name": "cccev-ap",
     "type": "ap",
     "eap": "cccev.eap",
-    "diagram": "CCCEV_v3",
+    "diagram": "CCCEV_v3-overview-attributes",
     "template": "cccev-ap.j2",
     "title": "Core Criterion and Core Evidence Vocabulary",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
